@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version= "1.1" width="720px" height="1369px" viewBox="0 0 720 1369">
+<rect x="0" y="0" width="720" height="1369" fill="rgb(235,225,203)"/>
+<g id="layer1" opacity="0.0">
+<g style="fill:rgb(110,91,84); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-1022.83026,-768.4278Q-1048.7482,-768.01843,-1067.2137,-750.0151Q-1085.2678,-731.40173,-1085.5935,-705.52075Q-1085.3136,-680.0143,-1067.2659,-661.249Q-1048.8536,-643.25146,-1022.91986,-642.78436Q-996.9969,-643.1062,-978.46625,-661.06055Q-960.34784,-679.62823,-959.9498,-705.5098Q-960.255,-731.3839,-978.32556,-750.0112Q-996.7608,-767.9909,-1022.6963,-768.4277"/>
+</g>
+<g style="fill:rgb(194,176,156); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-886.2894,-766.0295Q-912.20734,-765.6201,-930.673,-747.61676Q-948.727,-729.0034,-949.05273,-703.1223Q-948.67444,-677.2484,-930.53986,-658.6651Q-912.40546,-640.9456,-886.379,-640.3858Q-860.456,-640.7076,-841.9254,-658.6619Q-823.8069,-677.2297,-823.4089,-703.1113Q-823.71405,-728.98553,-841.7847,-747.61285Q-860.21985,-765.5925,-886.1554,-766.02936"/>
+</g>
+<g style="fill:rgb(235,225,203); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-751.1082,-756.27234Q-777.0262,-755.8629,-795.4919,-737.85956Q-813.546,-719.24615,-813.87177,-693.36505Q-813.5917,-667.8585,-795.54395,-649.09314Q-777.1317,-631.09546,-751.1979,-630.6284Q-725.27484,-630.9502,-706.7441,-648.90454Q-688.6256,-667.4723,-688.2276,-693.354Q-688.5328,-719.2282,-706.6034,-737.8556Q-725.0386,-755.8354,-750.9742,-756.2722"/>
+</g>
+<g style="fill:rgb(199,161,96); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-617.1556,-766.8067Q-643.07355,-766.39734,-661.53925,-748.394Q-679.5934,-729.7806,-679.9191,-703.8995Q-679.6391,-678.39294,-661.59143,-659.62756Q-643.1792,-641.6298,-617.2454,-641.1628Q-591.3224,-641.4846,-572.7916,-659.4389Q-554.673,-678.0067,-554.275,-703.88837Q-554.5802,-729.7625,-572.6508,-748.38995Q-591.08594,-766.3697,-617.02155,-766.8066"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-1033.9933,-627.67584Q-1059.9111,-627.2664,-1078.3767,-609.2631Q-1096.4307,-590.64984,-1096.7563,-564.76886Q-1096.378,-538.8951,-1078.2435,-520.3118Q-1060.1093,-502.59235,-1034.0829,-502.03256Q-1008.16,-502.35437,-989.6294,-520.3086Q-971.5109,-538.87634,-971.113,-564.7578Q-971.4181,-590.63184,-989.4886,-609.25916Q-1007.9235,-627.2388,-1033.859,-627.6757"/>
+</g>
+<g style="fill:rgb(131,84,68); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-888.9033,-620.8089Q-914.8213,-620.3996,-933.2869,-602.3962Q-951.341,-583.7828,-951.66675,-557.9017Q-951.3868,-532.39514,-933.339,-513.6298Q-914.9268,-495.63217,-888.993,-495.16507Q-863.06995,-495.48694,-844.53925,-513.4413Q-826.4207,-532.00903,-826.02277,-557.8907Q-826.32794,-583.76483,-844.3985,-602.3922Q-862.8337,-620.37195,-888.7693,-620.8088"/>
+</g>
+<g style="fill:rgb(162,108,72); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-750.71686,-618.1887Q-776.6348,-617.77936,-795.1006,-599.776Q-813.1546,-581.1626,-813.48035,-555.2815Q-813.2004,-529.7749,-795.15265,-511.00958Q-776.7404,-493.01184,-750.8066,-492.54474Q-724.8835,-492.86652,-706.3528,-510.82086Q-688.23425,-529.3887,-687.8362,-555.2703Q-688.1413,-581.1445,-706.21185,-599.7719Q-724.647,-617.75165,-750.58264,-618.1886"/>
+</g>
+<g style="fill:rgb(189,124,94); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-612.6064,-620.01843Q-638.5245,-619.60913,-656.9901,-601.6056Q-675.0441,-582.99207,-675.3699,-557.1109Q-675.0899,-531.60425,-657.04205,-512.83887Q-638.6297,-494.84122,-612.6958,-494.37415Q-586.77264,-494.69598,-568.24194,-512.65045Q-550.12335,-531.2183,-549.72546,-557.10004Q-550.03064,-582.9743,-568.1013,-601.6017Q-586.53656,-619.5815,-612.4723,-620.0183"/>
+</g>
+<g style="fill:rgb(182,100,79); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-1037.2433,-484.84476Q-1063.1611,-484.4354,-1081.6268,-466.43213Q-1099.6809,-447.8188,-1100.0067,-421.93774Q-1099.6283,-396.06387,-1081.4938,-377.48053Q-1063.3595,-359.76105,-1037.333,-359.20117Q-1011.4101,-359.523,-992.8794,-377.4773Q-974.7609,-396.04504,-974.363,-421.92657Q-974.6681,-447.80072,-992.7386,-466.4281Q-1011.17365,-484.40778,-1037.1093,-484.8446"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-897.5937,-482.1702Q-923.5116,-481.7608,-941.97723,-463.75745Q-960.03125,-445.14404,-960.35706,-419.263Q-960.077,-393.75647,-942.0293,-374.99118Q-923.61707,-356.99353,-897.6833,-356.52646Q-871.76025,-356.84836,-853.22955,-374.80264Q-835.111,-393.37045,-834.7131,-419.25204Q-835.01825,-445.1262,-853.0888,-463.75354Q-871.5239,-481.73315,-897.4596,-482.17004"/>
+</g>
+<g style="fill:rgb(231,186,147); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-756.3354,-472.97055Q-782.25336,-472.56116,-800.71906,-454.55777Q-818.77313,-435.94434,-819.0989,-410.0632Q-818.8189,-384.55664,-800.77106,-365.79126Q-782.3588,-347.7936,-756.4249,-347.32648Q-730.5019,-347.64835,-711.9711,-365.6027Q-693.8526,-384.17056,-693.45465,-410.05225Q-693.7598,-435.9264,-711.83044,-454.55383Q-730.26556,-472.5335,-756.20123,-472.9704"/>
+</g>
+<g style="fill:rgb(243,208,166); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-613.95306,-479.29303Q-639.8711,-478.88367,-658.3368,-460.8802Q-676.3909,-442.26672,-676.7167,-416.38553Q-676.4367,-390.87888,-658.38885,-372.11353Q-639.97656,-354.1158,-614.0426,-353.64868Q-588.1195,-353.97052,-569.58875,-371.92493Q-551.47015,-390.4928,-551.0722,-416.37454Q-551.3773,-442.24878,-569.448,-460.87622Q-587.8832,-478.856,-613.8189,-479.29288"/>
+</g>
+<g style="fill:rgb(255,230,190); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-475.9582,-475.2663Q-501.87628,-474.85693,-520.34204,-456.85345Q-538.3961,-438.23996,-538.7219,-412.3587Q-538.4419,-386.85205,-520.39404,-368.08664Q-501.98172,-350.0889,-476.0478,-349.6218Q-450.12463,-349.94366,-431.5938,-367.89807Q-413.47522,-386.466,-413.07727,-412.34775Q-413.38245,-438.22205,-431.4531,-456.8495Q-449.88837,-474.8293,-475.8241,-475.26614"/>
+</g>
+<g style="fill:rgb(196,120,106); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-483.39478,-768.3923Q-509.31287,-767.98285,-527.7786,-749.97943Q-545.8327,-731.3659,-546.15845,-705.4847Q-545.8784,-679.978,-527.83057,-661.2126Q-509.4183,-643.21484,-483.4843,-642.7478Q-457.56116,-643.06964,-439.03036,-661.02405Q-420.91174,-679.5919,-420.5138,-705.47375Q-420.81897,-731.348,-438.88965,-749.97546Q-457.32492,-767.95526,-483.26065,-768.39215"/>
+</g>
+<g style="fill:rgb(217,153,115); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-472.64325,-619.9777Q-498.56134,-619.56836,-517.0271,-601.5649Q-535.0813,-582.95135,-535.40704,-557.0701Q-535.1271,-531.5635,-517.07916,-512.79803Q-498.66687,-494.8003,-472.73285,-494.3332Q-446.80966,-494.65506,-428.27887,-512.6095Q-410.16025,-531.1774,-409.76233,-557.0592Q-410.0675,-582.9335,-428.1382,-601.561Q-446.57346,-619.5408,-472.50922,-619.9776"/>
+</g>
+<g style="fill:rgb(196,88,85); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-1038.0669,-348.17053Q-1063.9849,-347.76114,-1082.4504,-329.75784Q-1100.5045,-311.1445,-1100.8302,-285.2635Q-1100.5502,-259.75702,-1082.5026,-240.99173Q-1064.0905,-222.99411,-1038.1566,-222.52702Q-1012.23364,-222.8489,-993.703,-240.80315Q-975.5845,-259.3709,-975.1865,-285.25244Q-975.4917,-311.12653,-993.5622,-329.75388Q-1011.99725,-347.73352,-1037.9329,-348.17038"/>
+</g>
+<g style="fill:rgb(228,125,110); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-890.7499,-341.32446Q-916.6678,-340.91504,-935.1334,-322.9117Q-953.1875,-304.2983,-953.51324,-278.41727Q-953.1348,-252.54333,-935.00024,-233.96002Q-916.8659,-216.2405,-890.8395,-215.68073Q-864.91644,-216.00258,-846.3858,-233.95688Q-828.26733,-252.52466,-827.8694,-278.40628Q-828.17456,-304.28043,-846.24506,-322.90778Q-864.6802,-340.88745,-890.6158,-341.3243"/>
+</g>
+<g style="fill:rgb(252,150,136); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-745.5229,-333.94025Q-771.4409,-333.53082,-789.9066,-315.52744Q-807.96075,-296.91397,-808.2865,-271.03284Q-808.00653,-245.52623,-789.9587,-226.76083Q-771.5464,-208.76315,-745.6125,-208.29605Q-719.6894,-208.61792,-701.1586,-226.57231Q-683.0401,-245.14014,-682.64215,-271.02182Q-682.9473,-296.89606,-701.01794,-315.5235Q-719.4531,-333.50323,-745.3888,-333.9401"/>
+</g>
+<g style="fill:rgb(254,190,181); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-609.32996,-330.71213Q-635.248,-330.30276,-653.71375,-312.2993Q-671.7679,-293.6858,-672.0936,-267.80457Q-671.8137,-242.2979,-653.76587,-223.5325Q-635.3535,-205.53476,-609.4196,-205.06766Q-583.49646,-205.38953,-564.96564,-223.34392Q-546.84705,-241.9118,-546.4491,-267.79355Q-546.7542,-293.66785,-564.8248,-312.2953Q-583.26013,-330.27512,-609.1958,-330.71198"/>
+</g>
+<g style="fill:rgb(154,82,70); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-306.3596,-758.5667Q-332.2777,-758.1573,-350.74356,-740.1538Q-368.7978,-721.5403,-369.12354,-695.65894Q-368.84354,-670.1522,-350.79562,-651.3867Q-332.38327,-633.3889,-306.44922,-632.9219Q-280.526,-633.2437,-261.99515,-651.19824Q-243.8765,-669.7662,-243.47855,-695.648Q-243.78374,-721.5224,-261.85446,-740.1499Q-280.28976,-758.12976,-306.2256,-758.5666"/>
+</g>
+<g style="fill:rgb(196,88,85); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-1040.6997,-216.27519Q-1066.6176,-215.8658,-1085.0833,-197.86249Q-1103.1372,-179.24915,-1103.463,-153.36815Q-1103.183,-127.8617,-1085.1353,-109.09643Q-1066.7231,-91.09879,-1040.7893,-90.6317Q-1014.8664,-90.953545,-996.3357,-108.90787Q-978.2173,-127.475655,-977.81934,-153.3572Q-978.1245,-179.23126,-996.19507,-197.85855Q-1014.6301,-215.83818,-1040.5657,-216.27505"/>
+</g>
+<g style="fill:rgb(93,64,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-1040.6997,-216.27519Q-1066.6176,-215.8658,-1085.0833,-197.86249Q-1103.1372,-179.24915,-1103.463,-153.36815Q-1103.183,-127.8617,-1085.1353,-109.09643Q-1066.7231,-91.09879,-1040.7893,-90.6317Q-1014.8664,-90.953545,-996.3357,-108.90787Q-978.2173,-127.475655,-977.81934,-153.3572Q-978.1245,-179.23126,-996.19507,-197.85855Q-1014.6301,-215.83818,-1040.5657,-216.27505"/>
+</g>
+<g style="fill:rgb(93,64,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(93,64,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(96,68,60); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+</g>
+</g>
+<g id="layer2">
+<g style="fill:rgb(131,84,68); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M555.364,479.54913Q373.21173,593.64716,304.5927,604.5611Q234.5373,623.46594,136.88696,566.2026Q56.777435,600.1999,4.537018,714.65985Q-210.26018,771.9757,-325.86884,869.2471L-317.03552,863.2637Q-339.39468,881.29926,-350.28787,899.7377Q-358.56537,914.53015,-361.72244,931.1725L-403.94885,1228.4053Q-420.22305,1370.035,-386.24237,1417.7583Q-365.80597,1449.0093,-327.14243,1458.9246Q-284.08533,1467.4504,-272.29376,1445.0984Q-271.44318,1435.8545,-280.56622,1423.6259L-343.28653,1345.3119Q-356.2166,1325.4395,-362.43668,1300.3146Q-377.3169,1244.6321,-347.2641,1128.2719Q-323.10986,1421.5918,-88.71182,1466.6807Q-30.573456,1479.3884,62.78601,1481.9431Q92.20532,1484.5925,370.29565,1479.415Q423.36188,1479.4231,475.08698,1482.6487Q582.4759,1488.8654,724.84045,1517.9326Q467.40485,1451.977,238.16516,1436.3477Q352.69952,1432.7563,439.52222,1441.4667Q458.99847,1439.8374,735.8552,1486.7539Q806.1924,1495.7971,852.3165,1495.2405Q969.792,1496.6953,1032.8119,1431.0142Q1119.9535,1362.0178,1188.5377,981.2175Q1167.3569,1109.1067,1179.9512,1174.8184Q1203.1301,1285.218,1226.9409,1212.7985Q1272.3256,992.4297,1206.0956,841.58264Q1177.1101,782.56946,1119.0193,760.72046Q1104.0829,754.53107,1081.5295,748.4542Q978.06177,725.6559,969.2649,720.4484L837.14685,664.5314Q821.4641,660.1088,805.37683,659.15576L743.9739,658.2598Q738.0604,656.40155,733.67334,653.3287Q706.90295,627.29663,696.9424,624.9517Q683.4004,618.4561,641.2261,613.8144L555.68835,480.0405"/>
+</g>
+<g style="fill:rgb(131,84,68); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M1145.8046,1260.0712Q1098.008,1417.1055,1027.8353,1467.9081Q992.5035,1493.6763,940.12585,1503.8942Q894.4484,1513.6763,798.3857,1513.3683Q912.5803,1530.4955,962.18945,1527.3442Q1020.2352,1524.7441,1050.4928,1501.7859Q1085.5876,1476.6151,1108.9631,1415.7108Q1117.0305,1395.423,1129.0348,1357.5114L1145.8136,1260.0853"/>
+</g>
+<g style="fill:rgb(131,84,68); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-176.43909,1477.4995L-103.47422,1518.6112L-99.744576,1519.686L-45.891586,1533.6389Q-21.102493,1539.5892,-11.861694,1541.101Q-5.3329926,1542.3256,8.040085,1544.3234L41.18318,1548.8041L84.03046,1555.1252Q100.51849,1557.4723,113.53027,1558.3809Q169.62512,1562.3842,197.01785,1545.4143Q212.65271,1534.3788,211.74194,1523.1663Q210.90143,1509.9126,194.66266,1503.2297Q177.01062,1495.631,142.26688,1496.1029Q111.07291,1496.9888,100.05252,1497.971Q89.57712,1498.5636,50.06433,1502.9447Q39.323563,1503.8955,28.34996,1504.3541Q20.434647,1504.6823,8.742905,1504.7241L-22.372223,1504.5247L-46.40509,1505.084Q-55.365227,1505.0938,-62.088295,1504.5831Q-72.35591,1504.0331,-92.00537,1500.2489L-137.2666,1489.9838Q-157.3443,1485.2617,-176.17271,1477.6118"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M1.0685425,755.28467Q-3.1722183,754.30505,-9.236511,768.6682Q-11.934998,773.0772,-21.698463,813.98334L-28.283821,834.49Q-35.603943,855.43134,-45.95028,872.01105Q-62.16985,901.66003,-103.38652,927.53656Q-87.24623,932.3155,27.060287,880.1759Q39.36264,875.94904,49.125595,881.26337Q59.169876,883.82526,101.895874,949.6787L170.30222,1075.3477Q146.95024,1018.796,139.94852,1006.12445L105.00989,942.9822Q77.47685,898.9915,70.56705,884.26086Q66.880646,878.1823,61.612488,872.68774Q32.61577,846.12787,27.324951,839.4649Q19.362732,830.828,14.891342,822.33185Q9.25473,811.7993,6.455124,799.39496Q4.5836105,793.78375,4.1569443,763.30035Q2.932045,753.89557,1.1055145,755.285"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M110.3246,636.72156Q109.9822,643.6911,110.578964,649.53Q112.608955,662.5256,115.04411,684.14764Q115.52941,687.6183,116.34108,699.0809Q116.73437,703.4021,116.93353,716.8534Q117.072075,722.76184,116.6672,736.44824Q116.653465,740.7821,116.79808,743.6955Q117.43251,761.756,119.736565,774.3846Q122.782196,789.6981,129.23663,807.6333Q133.31166,818.87305,136.76831,827.0659L148.70085,854.60376Q152.3775,863.9853,155.27377,874.5912Q153.24829,865.60455,150.84712,852.6344L140.98178,798.269L136.44623,775.0218L134.3561,762.82324Q125.71502,705.9049,121.38506,663.92053L110.42615,636.97125 M155.30255,874.6965Q162.47263,906.2654,164.71135,912.05066Q166.28029,916.8375,167.59116,920.1641Q169.855,925.86115,169.41774,924.08594Q165.85136,910.35803,155.31581,874.73706"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M452.81213,785.5768Q423.65744,796.99304,395.62207,825.6731Q384.39496,836.1261,305.04437,936.20667Q285.2738,963.33234,254.3623,1015.8512Q166.22551,1167.608,164.53455,1176.9554L260.70123,1030.7535Q287.67148,995.0204,296.4955,985.1134Q331.9104,944.4695,348.14688,931.8154Q362.6643,919.14166,398.20825,902.3015Q428.7463,887.6425,452.66367,890.00964Q461.1149,890.8768,475.95322,896.2684Q535.45056,921.1367,545.4308,923.5037Q575.17926,932.6035,602.2825,937.73413Q660.9481,948.1744,693.988,933.5832Q694.7811,932.80634,693.68787,932.4142Q677.54047,932.77856,663.8645,929.9216Q654.21326,928.3131,639.6179,923.328Q612.5457,914.4057,578.1781,893.5757Q547.7727,874.7702,531.14734,860.3141Q517.71045,849.2561,469.61905,798.0014Q453.7079,783.2431,453.168,785.5882"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M644.13776,619.0495Q643.4447,619.3132,644.09045,620.74396Q655.5601,644.37933,662.07574,664.9646Q666.47864,679.1699,672.3125,710.52014Q675.4003,728.8782,676.356,744.66766Q677.6501,768.191,677.8975,801.92957Q678.09314,808.19794,678.65375,815.05707Q680.702,838.01953,683.9439,851.8605Q687.9723,869.36096,694.9971,888.1738L698.73663,897.7063L714.0582,932.7687L691.9892,874.38916Q690.4668,869.01624,689.9573,865.12634Q689.275,860.6636,688.9971,855.0089L688.11084,829.6779Q687.85486,826.06305,687.7531,797.88226L686.3461,750.49866Q686.1885,745.5545,685.86804,740.9253Q683.1902,710.8805,677.719,686.0996Q673.7654,667.75696,666.9539,654.4873Q652.0213,625.1759,644.21484,619.05615"/>
+</g>
+<g style="fill:url(#grad0); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M1082.755,829.38055Q1048.6486,841.88855,1035.5804,864.2029Q1018.3506,893.89417,1009.33344,948.22534Q1005.8635,973.9988,1005.4136,992.9386Q1004.7732,998.7732,1004.72876,1066.6144Q999.47186,1166.6729,999.7795,1189.0049Q999.56555,1207.557,1000.58954,1222.8164Q1002.97516,1270.4601,1007.261,1313.0771Q1009.29663,1343.1211,1009.3744,1351.5403Q1009.70013,1381.6511,1004.38385,1403.8308L1033.001,1309.1086Q1041.677,1278.9365,1055.1396,1224.0405Q1059.0367,1210.4604,1063.3569,1198.9011Q1069.8047,1180.8586,1091.5133,1136.9244L1136.3474,1053.8602Q1146.9899,1030.9531,1152.1919,1007.143Q1153.8878,992.7179,1150.254,985.2055Q1144.5305,974.5985,1140.311,980.7365Q1124.7983,1033.1079,1114.9847,1052.5697Q1104.535,1074.1595,1097.6462,1086.1355L1064.8442,1141.6714Q1058.9379,1152.3871,1054.5164,1163.6124Q1047.4885,1181.8484,1040.5522,1204.8055L1022.5582,1273.3834Q1018.5307,1288.4863,1018.5446,1285.8911Q1020.2379,1271.4053,1020.9184,1236.924Q1021.1161,1226.9321,1021.0376,1214.4133Q1019.66516,1162.6884,1020.03894,1151.473L1023.4721,1019.9831Q1023.8355,1014.6166,1023.65247,968.9363Q1023.8097,952.6524,1026.1935,936.11914Q1030.2631,905.47095,1043.4224,881.5937Q1049.4141,870.54285,1057.116,860.54034Q1067.6699,846.1515,1083.0026,831.2127Q1084.1881,830.2273,1082.8384,829.3823 M1004.2706,1404.2634L996.62964,1428.4242L994.72253,1438.5391Q1001.179,1417.9116,1004.22437,1404.4988"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M682.6369,835.65796Q682.2867,844.00323,682.6333,848.3214Q682.746,851.0714,684.43726,858.24414L689.9851,879.3399Q692.1084,886.29694,698.1428,900.91223Q699.5981,904.9999,700.1993,908.3469Q702.0161,917.75854,698.58484,923.0367Q695.55884,927.5887,691.00854,928.83356Q684.00366,930.99835,675.4103,930.8149Q670.08624,931.2094,649.7419,927.15436Q643.17365,925.992,628.7395,922.1276L648.8232,931.08374L666.8034,933.5374Q670.7438,934.253,705.86633,935.65906Q712.7326,935.6483,714.5473,933.17847Q714.9847,932.8682,712.8997,927.7076L709.186,919.38586Q702.88727,906.6314,701.49133,903.3341Q699.2859,898.3854,697.45355,892.8196Q694.2212,882.9624,691.37146,872.1255Q688.4096,860.70056,684.6657,842.30316Q683.06146,835.8779,682.6446,835.6588"/>
+</g>
+</g>
+<g id="layer3">
+<g style="fill:rgb(231,186,147); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M302.4555,-307.83218L190.99095,-302.37158L56.57408,-304.516Q16.650543,-302.85544,-15.08709,-292.295Q-118.29015,-253.60304,-128.61543,-160.65182Q-130.49086,-135.5984,-125.75592,-105.85544Q-126.57334,-103.91942,-107.22219,-17.750397Q-101.401794,60.551453,-82.16168,142.11862Q-138.63889,160.41092,-129.03278,189.54834Q-125.24932,210.48557,-74.65426,272.74692Q-44.18451,347.20932,7.736862,506.4163Q21.657394,543.97986,33.327576,565.3888Q58.64235,615.4004,116.58934,645.27563Q124.90666,736.2529,134.85115,783.85425L193.85365,1036.4056L179.91151,969.7611L193.72585,1034.9215Q230.1519,959.067,297.3211,871.9425Q328.92004,826.0591,496.44788,642.0858Q525.27814,608.05615,540.25305,582.8285Q552.5236,562.31055,559.0583,542.51013Q564.6905,526.8611,568.865,495.1536Q590.0739,441.0309,598.0869,411.69327Q608.70624,375.5034,617.6397,305.82193Q658.59033,310.6445,665.5916,295.96762L685.9145,235.42374L728.10315,166.37115Q736.51227,146.03781,738.4247,121.98334Q744.6943,48.442566,684.9941,44.21637Q650.7849,-140.265,593.4301,-189.38852Q560.0417,-228.22813,423.26257,-279.12918Q352.76605,-309.57443,303.1823,-307.83142"/>
+</g>
+<g style="fill:url(#grad1); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M137.43756,-344.63068Q13.877228,-333.84262,-35.03196,-314.39847Q-89.68155,-294.3062,-118.09379,-249.27985Q-177.56921,-160.32306,-114.65715,55.554047Q-106.831764,34.523346,-75.5687,24.934021Q-48.809578,14.974976,61.641968,-3.7554932L-18.353912,-5.7707825L-18.573883,-6.463135Q-33.852493,-105.24246,-27.486855,-145.28625Q-21.878342,-191.59608,8.998001,-210.75565Q33.005188,-225.91283,76.27591,-231.49109Q92.24823,-233.61449,110.68671,-234.8454Q208.4003,-239.0068,244.1488,-243.0586Q295.4446,-247.84685,387.19354,-261.63916L137.83759,-344.49802"/>
+</g>
+<g style="fill:url(#grad2); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M311.9234,-307.78598Q358.71295,-261.87524,386.05823,-245.37439Q399.03983,-237.19925,412.1178,-231.60309Q469.69226,-210.38376,470.69202,-208.77882Q485.35754,-201.8259,496.214,-192.15073Q513.9652,-176.7391,526.149,-143.18959Q536.36145,-117.152725,549.76685,-44.7442Q610.5133,-13.406036,655.3904,3.1408997Q648.94434,-65.752396,630.2366,-111.526794Q613.7813,-154.75726,556.86163,-245.28186L312.5337,-307.6312"/>
+</g>
+<g style="fill:url(#grad3); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M48.84558,39.442482Q105.45245,40.747276,123.94568,88.73033Q110.74603,73.75872,86.38487,64.97632Q61.92743,56.49074,40.372192,59.079563Q23.265404,61.019844,8.069939,71.38842Q1.0548096,76.04706,-6.74115,83.04593Q-12.601845,88.09473,-28.583817,105.01379Q-31.499207,107.81743,-32.33016,107.819336Q-35.4517,104.76481,-23.087051,83.216965Q-13.33223,67.29555,-0.85962677,56.598625Q19.43084,39.529434,48.775986,39.442513 M97.34338,5.3495073Q47.51114,5.490622,-40.880745,24.483986Q-75.23663,31.28796,-82.831085,45.948067Q-93.66563,61.297836,-90.49986,120.468124Q-84.656044,207.27005,-71.024216,276.9359L1.4265976,224.4954Q127.68393,162.23148,156.41577,152.26392Q160.28859,150.51855,161.45915,148.72066Q164.01299,146.59125,155.02748,135.03062Q179.93968,66.6968,165.75584,35.941044Q152.21976,4.692518,97.63989,5.3496876"/>
+</g>
+<g style="fill:url(#grad4); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M381.08032,-4.520401Q423.48523,-3.2881813,452.83835,14.191143Q473.70392,26.80679,480.78598,60.998928L451.69415,60.51417Q443.42725,82.626724,419.24463,85.92355Q409.37366,87.46814,394.31287,87.38809L334.36124,85.76605Q322.72858,85.99057,315.37262,87.82716Q302.7979,90.01773,291.03976,106.35745Q317.79855,39.04733,367.03378,25.514652Q386.66248,20.38876,409.86682,27.327633Q420.55914,30.534115,432.67017,36.07214Q443.05594,40.561527,473.3328,57.250828Q478.15155,59.781002,479.309,59.00366Q475.42365,49.021915,447.89804,31.515896Q429.1526,20.281376,408.73123,17.338184Q351.95184,11.734661,328.40936,35.98779Q336.36456,12.280369,346.87128,4.765606Q357.73434,-4.369377,380.38306,-4.518299 M399.8502,-61.95471Q362.8523,-62.84251,286.06195,-34.86225Q237.22583,27.451687,247.8534,64.552704Q251.67657,88.118774,279.80698,134.81526L280.04425,135.07898L282.39194,129.2346Q292.56552,151.82089,306.45526,159.01979Q315.0999,163.89226,331.87274,165.58478Q382.97018,168.20418,425.85504,172.76976Q437.24493,173.56094,445.22998,173.54741Q477.53815,173.91602,491.67755,161.54286Q497.79956,156.29178,502.8865,147.88356L521.95825,110.203964Q527.3519,100.511505,533.7634,93.06828Q550.4109,74.007065,578.4066,61.20492Q608.6,48.420612,622.1891,54.47726Q634.9214,58.87894,637.9155,88.56018L660.25415,19.837948L606.6995,-15.901474L532.23376,19.267467Q487.88647,-28.304947,461.4887,-43.856506Q431.90118,-62.408123,400.15698,-61.954365"/>
+</g>
+<g style="fill:url(#grad5); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M206.3436,24.958002Q187.78233,25.638824,179.74994,44.48706Q177.08101,50.879486,175.2355,61.390335L169.30794,108.361786Q167.49461,120.38114,164.65277,130.19066Q158.04045,154.2125,139.39122,186.54932L170.9523,146.0998L181.36807,132.1068Q186.1279,125.45495,190.1772,119.08863Q205.20773,93.49469,205.66353,93.80218Q209.77188,88.192604,213.51285,87.14003Q217.34387,86.14456,221.90988,89.676834Q224.23001,91.3778,227.5187,94.66589Q241.28699,109.24871,243.55775,111.240135Q247.82278,115.343376,252.87515,119.39398Q267.60004,131.15634,288.37067,142.99806L253.45676,67.69381Q246.50749,56.339554,242.47707,50.578594Q225.0274,24.561213,206.34964,24.958002"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M700.8611,77.86315Q686.2872,79.068756,670.45636,87.96996L686.96515,86.95042Q687.3392,87.43384,687.6648,88.020485Q688.80743,90.18345,689.4055,93.19863Q691.20874,109.43999,692.30865,112.441376Q692.36816,113.76523,697.7196,127.71714Q698.727,130.75278,699.5542,134.34106Q700.74927,139.85374,700.5557,144.04497Q700.6422,148.45932,697.8,156.79747Q692.8206,172.0047,688.40796,180.54109Q683.40204,190.72864,680.1023,196.13031L662.6213,221.41202Q658.98334,227.1901,657.5333,231.49503Q655.6495,236.84235,657.5405,240.76486Q660.87476,245.76694,665.925,246.36584Q667.0489,246.39899,667.68726,245.18695Q672.56244,231.30289,676.8501,225.7374Q679.8191,220.9967,702.57556,193.2787Q708.59534,185.23001,712.5415,178.49423Q722.7012,160.82715,726.28253,144.19238Q729.5949,126.71489,729.4514,116.51281Q729.4164,106.800545,725.9007,97.49015Q722.5831,88.83783,716.0099,83.85488Q708.3595,77.86907,700.94305,77.86334"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M675.48773,42.864243Q664.2876,43.741886,652.98175,56.20574Q642.5744,68.7422,639.94965,83.499146Q639.01984,87.65613,638.0879,98.6597Q636.81635,121.746346,635.9448,132.26721L632.4248,173.30006Q630.75214,187.28377,626.1056,208.25082Q625.33307,212.7384,625.2501,216.3926Q625.05334,234.91837,635.8768,242.8939Q636.38293,242.70355,636.25183,241.85445L634.1624,232.7183Q633.70795,230.44788,633.6329,227.59512Q633.5297,223.19456,635.6338,219.22194Q637.33734,216.31148,639.9741,214.2909Q657.5577,203.81447,659.0111,201.13414Q667.3337,192.03893,668.7191,184.75966Q670.0018,176.60536,665.1069,172.42339Q663.37897,171.15164,661.4403,170.80618L652.06775,170.50262Q649.96045,170.26947,649.9233,169.64053Q650.57526,165.7797,653.2007,161.99976Q654.66266,159.39291,663.71716,150.8406Q665.8785,148.20248,665.87415,146.39426Q665.86584,144.83434,664.5694,143.30258L654.1228,132.73433Q651.657,129.94229,650.41284,127.275795Q646.8787,119.14769,647.4208,108.22846Q649.4882,66.413216,686.80853,45.31414Q675.22437,41.990486,675.55316,42.86437"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M624.5024,287.22528L620.03595,292.51904Q619.0455,295.89166,619.78754,298.88943Q620.4377,301.3113,623.16266,303.21936Q625.2629,304.84808,629.5181,305.60132Q640.6645,306.97266,652.09235,303.27216Q662.1384,299.60126,664.53674,293.77258Q664.54285,293.69977,664.3071,293.8191Q662.9473,294.74194,661.33014,295.65292Q660.47015,296.13867,659.4073,296.64536Q657.2189,297.7404,654.62646,298.4965Q650.11847,299.78433,646.3458,299.08655Q641.9924,298.39328,638.0006,296.03564Q631.77026,292.78186,624.53485,287.2503"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-100.08736,169.76767Q-110.22424,170.13629,-115.650604,177.34892Q-118.7762,181.78673,-115.96944,195.35838Q-113.26744,206.4721,-106.53856,218.56337Q-101.04889,227.97688,-99.67341,229.82574L-94.436714,236.87198L-85.48225,248.42381Q-83.267136,251.50043,-80.603195,256.3647L-84.56601,238.44171Q-85.69113,234.0795,-86.382706,230.73848Q-87.872086,222.87886,-88.2733,218.36357Q-88.78,214.0596,-88.76072,206.95029Q-88.78645,203.54921,-88.03814,191.51772Q-87.89978,187.57098,-87.92515,186.62851Q-87.98764,182.03886,-88.675476,178.88914Q-89.87916,173.9609,-92.32123,171.96866Q-95.06179,169.82887,-100.061775,169.76768"/>
+</g>
+<g style="fill:url(#grad6); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M591.7447,436.52936Q567.2384,449.01633,560.12177,461.91312Q557.17236,466.9841,555.82446,472.30612Q550.34064,509.32797,543.8565,522.1515Q535.0831,542.6824,516.8693,563.217Q460.94806,623.5146,402.59918,652.729Q386.76233,659.71545,373.85645,659.3925Q369.28796,660.72345,332.4563,650.32605Q324.22577,648.798,315.80692,648.4424Q303.7566,647.87366,287.90454,648.6897Q199.09753,655.9505,190.3245,654.5878Q159.85849,654.6113,114.20814,646.1821Q191.66394,703.3961,240.62416,709.0773Q293.9425,718.2573,368.761,684.8842Q473.1684,636.85974,517.8334,586.5082Q528.72784,574.60724,544.3737,552.26447L591.5709,436.9684"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M566.53595,496.15918Q544.5674,565.6825,511.1361,596.4542Q467.71118,639.64307,385.3474,677.0181Q340.14517,696.9708,312.61658,706.24426Q290.0329,713.61646,272.5898,713.48865Q256.621,713.89954,225.88254,708.4521L161.97694,679.1876Q218.12206,734.84326,264.58096,736.31964Q284.24005,737.99316,313.3114,730.9319Q329.6745,728.03015,408.48184,699.33185Q423.44104,694.8931,426.49902,696.9781Q432.97614,699.8574,421.31488,717.0262Q412.25336,730.97723,377.03867,770.5731Q510.29333,630.26965,533.7907,593.0428Q565.13934,550.8887,566.54,496.15918"/>
+</g>
+<g style="fill:url(#grad7); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M116.60978,647.91656Q127.08471,748.5629,135.51505,789.7593Q143.31078,831.0259,162.60759,889.7752L176.4065,954.10754Q154.90399,839.47095,151.59157,792.53784Q146.75713,733.0414,156.59077,713.54504Q162.48148,701.73505,176.4091,701.8025Q181.78592,701.7666,189.46121,703.36597Q242.56271,717.3809,251.2915,717.13257Q269.49445,719.14575,298.78217,713.4017Q250.12186,716.28217,217.03404,703.1271Q164.82808,683.39197,116.713394,647.9895"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M452.8427,85.8681Q441.98282,91.20275,434.40045,92.93894Q422.34836,96.20321,411.68985,96.89791Q405.42633,97.37707,394.56946,96.397804Q391.47235,96.12592,386.91263,95.53738Q370.3819,93.15795,364.54337,92.45135Q356.91055,91.63096,352.11066,91.42533Q340.09802,90.956245,331.7501,94.10339Q327.52512,95.75299,325.32288,97.202805Q320.14935,100.464745,316.45206,103.6216L351.50803,110.43721Q356.78943,111.96683,360.9256,112.741684Q365.06097,113.610855,376.1313,115.19769Q391.24454,117.25727,404.82147,116.68325Q415.97284,116.45783,426.56927,112.35149Q436.01923,109.133545,443.58347,101.33491Q451.54993,92.955315,452.91107,85.8772"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M109.059296,126.7273Q103.26406,126.888466,96.096176,128.64616Q95.16411,128.77498,84.331894,132.51799L73.6871,136.58362Q71.95634,137.24913,70.34959,137.74422Q61.854507,140.20158,55.238926,141.39201Q43.36074,143.1666,36.834896,143.42877Q23.695118,143.94847,13.399781,142.8064Q15.9157,147.3584,28.181698,151.49086Q44.090485,156.60733,55.070293,156.70895Q61.882343,156.81088,73.89816,153.68146Q76.41606,152.91727,79.38849,151.62671L95.969444,144.25323L117.60313,127.82473Q113.5497,126.80827,109.11795,126.727394"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M53.892895,-7.379229Q14.859119,-7.4026303,-6.983177,9.524948Q-19.236542,18.347544,-31.451494,34.003563Q-39.502316,44.186413,-52.7805,65.04277Q-57.29795,72.045135,-56.459164,72.82222Q-55.703876,73.42445,-52.240685,71.0835Q-27.26174,52.718307,-19.119705,48.252724Q-8.004501,41.686882,0.88648987,39.129982Q57.69846,26.351343,90.683105,31.094038Q116.69855,34.72428,131.60875,49.626972Q146.00085,62.71558,164.98212,103.63154Q168.22424,64.87468,165.52957,48.305153Q162.93388,29.610708,152.72144,19.688124Q142.00735,8.498859,115.3817,1.286468Q83.38747,-7.2555857,54.018116,-7.379185"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M398.98468,-44.57484Q346.11005,-43.32223,294.37228,-22.315159Q279.87366,-15.906424,270.59387,-6.7898903Q266.37823,-2.8956337,255.36209,11.083588Q250.39651,17.668015,247.86066,23.405964Q237.03519,44.808514,254.13374,83.95882Q266.36713,112.9017,284.08926,140.93864Q293.6974,156.5067,305.68588,162.92947Q307.40387,162.94522,305.96527,158.1065Q294.06573,126.60901,292.54773,116.95216Q289.8396,103.88245,291.67856,94.76044Q300.29492,40.269756,337.29944,8.522266Q363.38116,-13.5367565,395.9506,-14.06842Q425.53986,-15.599951,492.98047,4.3196907Q467.14923,-24.220524,448.03265,-33.647575Q426.6198,-44.902496,399.2713,-44.574596"/>
+</g>
+<g style="fill:rgb(207,132,103); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M203.74156,23.049688Q180.22609,22.207075,173.00145,45.566414Q170.38576,53.023537,167.81955,70.165535L158.85199,157.7476Q181.66554,125.736534,187.76591,110.79445Q190.66812,104.05929,191.95285,98.244446Q192.84471,95.93408,195.28308,75.13264Q196.10298,70.72866,197.69711,67.7791Q201.50168,60.658936,212.32149,58.25653Q226.59966,55.977325,234.32826,64.45011Q237.13235,67.66204,239.33522,72.66569Q240.44385,75.15743,241.53055,78.2112Q246.93076,94.67187,247.91022,96.64012Q250.13097,102.1886,253.31996,107.10328Q260.14603,118.203896,279.44553,133.99286Q260.26144,100.32182,256.2692,85.307236Q254.10284,77.73282,254.0361,71.8908Q253.70642,68.64541,255.4816,54.08748Q255.64981,51.53359,255.49808,49.62085Q255.2049,45.036377,252.73682,41.36473Q248.00024,34.399696,233.2269,28.75788Q218.17397,23.223186,203.81395,23.049734"/>
+</g>
+</g>
+<g id="layer4">
+<g style="fill:url(#grad8); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M392.96518,-228.55898Q377.36115,-228.60258,357.9824,-226.36797Q265.28818,-212.12595,244.191,-211.62027Q226.38116,-210.41017,210.02347,-210.28476Q131.67365,-210.90543,126.689926,-210.33145Q103.287415,-209.72757,85.188675,-207.25826Q35.012726,-200.49033,16.084225,-176.25456Q-18.479431,-132.53676,9.067965,-9.827393L140.9105,15.494019Q169.63571,20.311707,193.8222,20.39827Q223.8802,20.651718,251.5103,11.688629Q263.86282,7.7209167,278.18387,1.535141Q344.542,-29.385788,351.2651,-31.238235Q373.632,-40.110428,396.9644,-44.83107Q444.4021,-55.60237,549.8063,-51.827454Q533.6083,-156.89734,503.11157,-188.48317Q467.61728,-227.84612,393.8534,-228.5574"/>
+</g>
+<g style="fill:url(#grad9); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M603.3744,67.387276Q593.71094,67.12164,580.8866,74.23237Q563.46484,83.35371,553.39355,93.877914Q549.0191,98.516136,545.2832,106.011L543.3085,110.37497Q537.75574,125.30618,536.5968,127.413475L527.06854,146.09573Q523.6143,152.63333,517.12225,160.72778L523.09735,167.48984Q540.84973,173.34674,551.4737,185.27902Q554.94666,189.07175,558.3978,194.87552L561.3376,200.67389Q566.82446,214.13507,567.8881,215.89642Q570.18634,220.37207,573.02435,223.06949Q579.0738,228.02234,589.446,228.41626Q595.99384,228.27869,598.9732,225.68637Q601.1152,224.25824,604.7372,214.79959L619.0981,170.72879Q620.8164,165.33583,622.32935,159.6852Q626.93317,142.58292,628.2554,126.86455Q629.71436,97.967064,622.8485,80.7907Q617.1318,66.75976,603.4635,67.38739"/>
+</g>
+<g style="fill:rgb(243,208,166); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M648.05646,220.89839Q644.08014,221.15039,641.00665,225.6067Q638.36774,229.71388,638.6579,235.39957Q638.97266,240.58453,641.21857,245.44705Q642.1925,247.59206,643.4835,249.75092Q645.3266,252.82442,648.9538,258.17606Q649.67664,259.30637,650.2716,260.6927Q651.03394,262.69186,650.1829,264.3676Q646.87915,269.15698,640.0328,265.67737L630.1749,252.4521Q622.8132,262.6736,622.18555,271.0657Q622.0279,279.7117,628.6805,286.07672Q634.37054,291.0971,644.5306,291.43527Q655.77277,291.19098,662.9491,285.50748Q668.71814,280.7042,669.1332,271.3819Q669.38116,264.7992,667.24475,259.7059Q666.3968,257.6307,664.84607,255.53186L663.15814,253.5154Q658.2671,248.43771,657.60535,247.48535Q655.9647,245.47226,654.5869,242.7572Q653.33777,240.35468,652.4377,236.42517Q651.9971,234.97716,651.0847,226.12576Q650.8638,224.48769,650.47424,223.09447Q649.8952,220.84453,648.06866,220.8984"/>
+</g>
+<g style="fill:rgb(243,208,166); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M693.7246,50.65839Q684.1512,50.677307,677.0362,56.756992Q673.1419,60.154068,671.0795,63.500416L670.09,65.2032L666.014,74.21895L669.8399,74.03204Q684.2731,72.03514,685.51776,72.20568Q694.99335,71.777405,698.4754,72.65633Q715.18646,76.777214,725.1833,85.969635Q732.11646,93.35932,733.502,106.92389Q734.323,114.59921,733.7364,123.92157Q733.7615,126.39215,731.0786,143.2597Q735.69574,132.65894,736.3409,107.1171Q736.5091,87.48208,732.25793,77.34562Q728.1954,66.724014,718.0747,59.651665Q705.52527,51.41412,693.8553,50.658722"/>
+</g>
+<g style="fill:rgb(243,208,166); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M119.982185,76.6151Q121.69804,78.34371,120.049965,76.6805 M51.26454,39.420456Q36.13343,39.907906,23.77355,44.241047Q14.447748,47.56196,2.3567657,57.37918Q-23.679821,79.08907,-28.73395,104.63803Q-10.528845,85.77641,-7.7764072,83.73927Q1.8429585,75.16012,12.532122,67.83731Q28.103056,56.666992,43.61017,53.80799Q58.097794,51.66767,65.70406,52.172997Q77.0455,52.84234,87.109314,56.003826Q101.7291,60.07045,119.88601,76.51814L100.49824,56.994385Q90.19664,50.691647,88.87738,50.081196Q80.21154,45.3572,67.72379,41.96606Q59.326668,39.427273,51.440964,39.420742"/>
+</g>
+<g style="fill:rgb(243,208,166); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M393.93256,-4.374197Q385.21677,-4.667579,370.69757,-1.3630116Q358.45767,1.570344,348.64288,6.033866Q346.94678,6.884305,345.44498,7.768162L334.65515,25.090214Q346.829,19.610968,349.94968,18.696133Q363.65982,14.467913,369.4584,13.26071Q384.72336,10.594867,399.43912,12.26478Q418.0784,14.389072,429.13824,19.658764Q434.72144,22.06299,444.48526,28.185892Q448.87265,30.840746,459.55536,38.946793Q460.0945,39.31604,460.47577,39.329437Q461.24304,39.38788,461.14288,38.34175Q460.9356,35.7321,459.95593,32.63076Q458.48312,27.877108,455.30627,22.852161Q450.1775,14.698185,440.9463,8.365792Q420.70563,-4.270178,394.0739,-4.374098"/>
+</g>
+</g>
+<g id="layer5">
+<g style="fill:rgb(235,225,203); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M236.37695,129.75523Q228.28664,129.75523,221.61249,130.36841Q158.84358,133.21657,47.095245,194.67798Q-44.906002,245.5271,-71.82705,279.72528L-71.826324,279.72528Q-41.813194,354.4805,7.736862,506.4163Q21.657394,543.97986,33.327576,565.3888Q57.923203,613.9797,113.32333,643.56195L113.32446,643.56195Q154.76309,653.7086,202.88951,653.7086Q220.03441,653.7086,238.02808,652.4209Q406.6751,640.0603,538.6818,501.06076Q571.4029,464.07315,577.9917,434.2092Q580.61615,423.49387,580.49274,410.38116Q573.1506,353.17203,576.8352,337.39545Q579.645,307.52795,599.44775,243.86581L599.67346,243.11719L558.2328,228.71692Q559.4611,210.09363,546.9608,200.9658Q533.9889,190.38553,494.5263,178.84398Q308.76447,129.75523,236.37695,129.75523 Z"/>
+</g>
+<g style="fill:rgb(235,225,203); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M64.658806,78.1754Q46.202797,77.92758,25.519728,88.04388Q4.81282,98.608246,-0.959764,110.90759Q-6.2946434,123.189835,3.767694,130.69977Q14.590752,138.04105,36.725372,138.24278Q50.70351,138.20961,63.66832,134.91623Q71.23179,133.00917,79.86953,129.75305Q83.43138,128.58682,106.831245,118.525986Q111.54065,116.6118,115.53987,115.40959Q127.129166,111.899895,136.83994,112.91696Q127.188416,112.02384,121.553856,107.530174Q119.09148,105.6181,116.92522,102.8825Q108.40683,90.34518,107.241264,89.64943Q103.76764,85.95231,99.408394,83.86313Q94.87921,81.50804,85.910904,80.28561Q73.13009,78.12593,64.88652,78.175705"/>
+</g>
+<g style="fill:rgb(235,225,203); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M416.2528,30.41321Q389.90076,31.048714,378.13733,32.928658Q364.7136,34.92003,357.1139,39.2965Q351.4263,42.40468,345.8535,47.92343L322.5296,73.429054Q312.7804,84.28436,316.05615,85.86936Q317.27646,86.75063,321.1097,86.5753Q322.74216,86.50077,325.26184,86.182625Q336.98837,84.448685,337.91318,84.46644Q342.26263,84.07033,346.14316,84.29367Q349.31165,84.45917,353.35233,85.08069Q375.17892,89.10065,380.5306,89.5155Q390.4945,90.65035,399.67303,90.3144Q422.36664,89.14098,437.57367,81.097145Q452.79288,73.11402,451.60742,54.804054L416.32764,30.464712"/>
+</g>
+<g style="fill:rgb(194,176,156); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M22.592182,85.94533L-14.860425,118.63776Q-8.198025,130.12332,18.432907,135.80147Q40.216194,140.43132,59.838444,136.07753Q68.89002,134.1923,78.09803,130.80489Q82.2364,129.49576,101.25484,120.89816Q104.89559,119.3793,108.21429,118.318985Q112.083626,117.060196,117.33235,116.09502Q120.208374,115.50227,132.4875,113.891365Q134.96362,113.51016,136.23926,113.19135Q140.18727,112.27296,140.20135,110.48213Q142.97792,108.41984,110.28275,86.98763Q110.063675,111.65619,96.254456,120.020096Q86.59181,126.53227,72.30772,129.64108Q57.93189,132.57983,47.53218,130.34837Q33.154076,127.24241,27.019691,116.64741Q21.736256,108.24574,22.591728,85.99344"/>
+</g>
+<g style="fill:rgb(194,176,156); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M426.55545,43.857883Q431.12515,75.19758,404.84955,85.9706Q394.90073,89.76274,381.00113,87.68564Q366.01733,85.18185,355.3909,78.368744Q347.13846,72.88774,345.09344,65.90286Q343.078,59.871784,346.3231,47.04873Q336.06467,53.707253,329.92188,60.823875Q323.51633,67.91431,310.92255,86.86708Q329.06595,83.08436,340.51266,83.856735Q346.44693,84.135025,353.97607,85.21021Q356.6771,85.51106,376.19772,88.89064Q380.51248,89.58559,383.94794,90.01933Q390.99625,90.92659,396.85214,90.99191Q408.05823,91.165344,417.20337,87.77351Q424.17273,85.21294,432.96198,78.964455Q437.56644,75.70575,443.93695,70.66054Q446.0246,68.852745,446.3897,67.160904Q446.8604,65.21985,444.56714,63.012497Q445.02643,62.939095,434.37726,55.63148Q431.97076,53.757175,430.296,51.809147Q427.1648,48.183174,426.56485,43.895306"/>
+</g>
+<g style="fill:rgb(110,91,84); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M11.654211,84.63201Q4.397314,86.767944,-5.841812,105.192345Q-13.393976,120.087006,-10.352706,127.180626Q-9.007196,130.2144,-5.108349,131.19489Q21.813421,137.1388,36.601578,137.81496Q52.389313,138.6942,64.778854,135.00023Q70.05591,133.54362,77.10968,130.85837Q112.90611,116.06668,116.21359,115.44054Q121.091446,113.8499,125.15253,113.14749L128.91594,112.62535Q130.25627,112.464325,134.74594,112.23921Q135.79506,112.13591,136.08566,111.999176Q137.22195,111.69027,136.46387,109.980545Q133.14215,103.71869,115.506805,91.27985Q115.45206,103.98222,111.91794,109.67386Q108.53508,115.83975,98.413185,120.927574Q84.24224,127.83743,65.98225,131.51312Q43.957085,135.33011,33.46781,133.04047Q20.320688,130.32637,14.841963,118.45781Q12.929548,114.17816,12.466036,108.79605Q11.745863,103.78095,13.533144,87.63094Q13.40748,84.76198,11.862238,84.6431"/>
+</g>
+<g style="fill:rgb(110,91,84); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M433.30243,43.1307Q436.11584,60.53946,432.12195,71.32236Q428.77832,79.975876,416.28998,84.36572Q398.48773,90.556625,383.13223,89.3405Q376.9702,88.77769,370.0875,86.77414L347.30804,79.47632Q344.16827,78.44072,342.20593,77.59808Q334.6702,74.50095,333.937,69.690094Q332.61417,65.87889,337.1712,52.217834Q337.4084,50.34208,336.33038,50.319157Q330.03195,52.21724,315.87463,71.09236Q305.57376,85.76857,309.20398,88.42638Q309.90677,88.95974,311.98495,88.66412L323.71304,85.75635Q327.9576,84.81224,331.5954,84.30795Q337.55652,83.47619,342.85077,83.70704Q347.4007,83.87196,353.68857,85.1564Q355.83493,85.4677,372.0277,89.74191Q375.19284,90.50371,377.63422,90.91189Q383.9579,91.97171,389.91406,91.736374Q412.14294,90.14785,427.46027,84.59651Q450.87524,75.272675,454.58704,62.752068Q455.24573,58.947334,451.1391,55.167427Q449.3149,53.030098,436.89478,46.124622Q434.96094,44.809444,433.4316,43.209118"/>
+</g>
+<g style="fill:rgb(196,120,106); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M119.77629,94.331505Q121.66744,99.68489,120.59804,105.089935Q119.99256,108.068825,118.643005,110.752205Q118.2863,111.51767,117.06399,113.21619Q116.50188,114.00503,115.622116,114.81764Q115.57626,114.90763,115.62026,114.91729Q116.7392,115.17004,119.263115,114.71597Q120.15328,114.58692,127.889534,113.09119Q129.28888,112.816086,130.52658,112.43068Q134.35594,111.2929,134.7655,108.97597Q135.08524,106.916,133.18753,104.493065L119.79113,94.34184"/>
+</g>
+<g style="fill:rgb(154,82,70); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M123.67968,98.06104Q124.33341,100.05281,124.41587,101.65265Q124.56453,104.11736,124.111565,106.444916Q123.69191,108.42322,122.84403,110.13854Q121.88216,112.14926,120.51489,113.622154Q120.46156,113.7189,120.56937,113.77156Q122.04367,114.360954,125.25732,114.25508Q128.74373,114.20159,131.25392,113.55434Q133.34843,113.033714,134.83447,111.93158Q136.31633,110.785995,136.50919,109.634224Q136.67169,108.764145,136.02962,107.51436L123.68998,98.067986"/>
+</g>
+<g style="fill:rgb(196,120,106); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M330.4978,61.260056L314.18262,79.89772Q313.33093,82.47426,314.77377,84.10112Q316.42538,86.03572,319.40558,85.979294Q320.6365,85.98266,322.34518,85.76061Q323.97537,85.554855,329.11594,84.71875L337.44247,83.72628Q342.11194,83.03168,342.25784,82.80499Q337.9226,81.61913,335.70712,79.960754Q332.01718,77.20714,330.3967,74.19599Q329.05673,71.85167,328.96884,68.56012Q329.0351,66.41758,329.2525,65.405914L330.50012,61.260056"/>
+</g>
+<g style="fill:rgb(154,82,70); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M325.36542,66.496346L316.42276,80.31886Q315.94995,81.82436,316.24207,82.823105Q316.5281,83.98253,318.45258,84.8089Q320.2316,85.55592,322.77325,85.61093Q325.60266,85.68064,330.1132,84.78615Q332.99817,84.129776,333.8349,83.25503Q333.95047,83.07558,333.75922,82.90566Q331.0637,81.957596,328.94952,80.05703Q327.481,78.676346,326.26535,76.242714Q325.26038,74.350784,325.01642,72.07673Q324.8777,68.20287,325.3672,66.50263"/>
+</g>
+</g>
+<g id="layer6">
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M306.83527,-516.5036Q198.08807,-519.34375,49.392227,-446.62518L115.04706,-483.69897Q67.90686,-469.61768,46.195587,-458.56738Q6.7963104,-442.20477,-33.697205,-379.64197Q-116.763214,-323.08496,-138.50073,-294.68848Q-160.61057,-269.13025,-166.44267,-222.92429Q-147.61339,-286.66757,-110.96883,-308.19382Q-171.19519,-269.68115,-167.07065,-160.16666Q-166.88469,-53.382446,-139.33583,32.38568L-102.06175,16.335938Q-95.87855,-0.11694336,-92.50334,-19.377441Q-83.726654,-52.569183,-108.81641,-155.8201Q-52.50341,-182.7265,-4.516632,-279.37503Q-28.142761,-215.36429,-43.280296,-205.83322Q-11.7438965,-228.01285,18.142273,-287.55963Q174.0397,-272.54626,239.58527,-272.3063Q307.66266,-271.17432,396.6202,-283.95386Q299.52905,-265.83948,258.9131,-264.0936Q216.76416,-261.18314,155.37167,-270.54324Q221.23502,-250.49438,258.35095,-249.43295Q293.6276,-246.95541,367.9158,-260.8775Q457.3735,-220.36752,502.686,-209.48541Q548.7948,-196.84341,638.23474,-191.20352Q521.88257,-190.32806,448.37033,-217.00656Q499.1805,-187.5586,577.98596,-180.14505Q614.3052,-86.454254,644.5282,-74.98459Q607.2527,-95.605255,598.50574,-117.95984Q603.4966,-58.307953,610.1764,-34.226685Q612.9751,-19.079834,635.01697,27.094849L639.45105,42.093567Q642.9584,59.121216,639.6189,88.07434Q646.9314,58.53894,654.07446,52.523193Q660.5681,44.404785,683.426,45.292053Q696.37,-0.51086426,701.3878,-25.724762Q720.198,-112.60043,695.29675,-186.55402Q663.3821,-279.4712,589.9324,-366.24713Q532.7919,-433.37057,461.37387,-455.0149Q531.2543,-432.4029,566.4054,-401.81125Q600.2267,-374.6563,651.0265,-293.20612Q630.4,-342.71753,617.0609,-366.4765Q577.5017,-441.0769,506.86716,-474.53677Q419.707,-515.31573,307.0868,-516.50354"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M451.2713,-42.714897Q508.13904,-42.985474,519.855,-10.57756Q531.1815,22.542618,529.33453,60.036156Q530.0954,97.70269,521.65015,119.61523Q512.3328,145.94186,480.54877,157.97772Q464.6855,164.4285,434.45517,170.43506Q379.95413,182.397,365.8573,181.38226Q322.23557,183.26675,289.6691,135.03336Q245.18835,65.27444,257.03827,25.246323Q263.56235,1.8045883,316.9943,-14.989433Q396.06683,-42.446392,451.26642,-42.714897 M458.15216,-55.391838Q405.56482,-55.579163,361.6716,-44.097664Q318.347,-33.646473,245.96994,-2.4176636Q233.55028,30.738503,240.59361,56.77845Q248.77032,89.80518,280.4198,140.60138Q297.20792,167.0523,316.31595,176.95557Q335.24133,187.24982,368.56476,187.147Q399.54688,187.0397,442.44006,178.77325Q506.85358,165.52942,507.90656,159.92413Q520.3335,151.53192,527.7699,128.78928Q536.82227,102.52543,546.35254,29.461021Q553.6681,13.683823,557.9943,8.996742Q564.3922,0.63659286,584.4401,-10.850536L640.6853,-2.8367577L579.9409,-46.92357Q499.4403,-55.672092,458.9314,-55.391293"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M95.04695,5.3574915Q147.58763,3.7056475,155.69572,40.472946Q159.33775,52.5379,161.14638,74.92814L159.28004,101.23926Q154.99312,152.18399,144.18587,172.026Q132.83943,195.3425,101.554245,204.10492Q76.62906,212.57368,-15.142448,219.54597Q-32.600563,219.91457,-42.007675,210.01694Q-51.962288,200.42967,-62.101585,173.39569Q-93.37083,77.73515,-77.906494,50.37899Q-69.4391,32.26289,-33.716843,23.562412Q27.99701,8.483943,94.377686,5.35861 M64.94368,-8.177688Q22.447983,-9.998887,-74.91402,21.63079L-128.94139,17.49113L-138.23555,33.091633L-138.72101,81.02572Q-105.15908,99.85816,-97.31932,113.76128Q-93.55119,119.65945,-90.448685,128.42722Q-77.20305,171.99425,-73.86619,179.17033Q-68.04396,193.85382,-61.710365,203.46419Q-47.057556,228.85109,-10.695358,228.00208Q68.29869,224.94746,88.72073,219.58148Q119.81938,213.37337,137.43913,196.88751Q153.34117,182.25096,162.32985,156.46509Q172.89897,128.21825,181.32927,54.194798Q185.0355,45.054703,192.085,41.106724Q212.18953,31.039165,232.13756,41.062725Q244.39793,47.830143,248.69316,78.42981L254.37761,-3.2782059Q219.19426,2.959035,150.00145,3.500083Q95.69487,-8.723403,65.080444,-8.177648"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M58.179512,69.94661Q32.53006,69.98947,13.678013,82.76741Q7.0885124,87.13277,0.07993698,93.52762Q-3.1913452,96.24729,-20.211924,113.836914Q-23.832796,117.351364,-27.307188,120.08794Q-35.601414,126.829895,-47.65035,131.01227Q-40.884808,131.9252,-35.254852,131.97736Q-22.310719,132.22517,-12.316204,125.19543Q-8.775505,122.722946,-4.554039,118.52919Q14.111309,98.48181,16.796097,96.42252Q23.442566,90.3062,29.864975,86.51929Q40.83924,80.00295,55.741844,78.53584Q76.0633,76.66171,97.09191,83.958305Q117.8301,91.74038,128.89731,104.882935Q132.4827,109.49821,129.43524,110.9267Q128.43073,111.431915,126.85731,111.781296Q119.17547,113.250626,118.10177,113.61803Q115.06443,114.43185,111.95687,115.57427Q103.06457,118.85035,90.84298,125.00179Q110.93284,117.99762,120.11083,116.19621Q124.55215,115.272964,128.2262,114.99213Q130.78836,114.712105,139.42181,114.97489Q141.0568,114.95607,141.81693,114.49984Q144.47989,112.649475,130.00717,99.21817Q118.11446,88.66292,105.15562,81.73228Q83.7143,70.21814,58.516144,69.9472"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M9.285599,100.86257L-28.140987,126.3324Q-23.300226,131.15619,-19.387539,133.13815Q-15.08243,135.44342,-9.024923,136.44806Q1.2631207,138.41298,33.82963,136.54828Q18.094757,134.6362,11.956043,132.62253Q4.6782837,130.37865,2.2511272,126.776505Q-2.7288857,119.66293,9.25943,100.90447"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M366.5113,87.93524Q367.63513,88.385216,366.708,87.96986 M399.10284,27.142233Q367.52316,27.426777,344.97302,43.936153Q329.9079,54.96775,317.244,72.05566Q302.95255,92.4694,309.85574,92.0483Q311.1441,92.06947,313.70062,91.35475L323.21506,88.33017L327.5692,87.14134Q331.99887,86.10017,336.51236,85.778694Q342.3315,85.36034,348.79944,85.831795Q354.25745,86.16136,366.39694,87.89082Q353.0833,82.44833,344.65836,82.02995Q341.4806,81.79764,337.7202,82.20461Q336.41205,82.192375,324.1411,84.69582Q321.58978,85.089096,320.24698,84.89774Q317.31274,84.45042,318.16217,81.43124Q323.96527,67.168274,344.003,51.379406Q359.8128,39.470306,379.323,35.565544Q397.09018,32.20472,410.98383,37.24968Q416.70618,39.347736,422.96484,43.455112Q425.75858,45.07212,439.61,55.92811L444.0179,58.91685Q448.34134,61.57271,452.62085,62.567917Q461.6484,65.084595,478.17004,59.622986Q469.31116,57.20656,463.7153,53.880817Q461.30957,52.5027,458.69635,50.610954Q446.80432,41.160484,443.77768,39.384354Q438.1524,35.689323,431.90848,33.10081Q417.6498,27.225035,399.11624,27.142233"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M423.86627,41.655716Q435.21597,47.806885,438.35144,53.683903Q442.60825,61.412674,440.45822,69.73701Q438.6635,76.24646,432.1198,80.438194Q426.4644,84.407425,410.39542,89.61531Q433.24036,84.72605,441.51526,79.67485Q450.33524,74.894104,459.3208,61.437244L423.91666,41.681484"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M389.23438,28.067856Q376.67508,28.25832,367.8404,36.908073Q359.0993,45.91977,358.96503,58.289318Q359.08844,70.68622,367.82382,79.69287Q376.88107,88.44115,389.20935,88.54962Q401.58667,88.39639,410.50882,79.77177Q419.2768,70.784454,419.4467,58.41497Q419.35867,46.018505,410.65033,36.987137Q401.6198,28.213549,389.29248,28.06791"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M58.336018,69.97237Q53.231197,69.97237,48.05572,70.490616Q47.154884,70.5863,46.2632,70.69987L46.263664,70.69987Q44.942944,71.769394,43.683968,72.99601Q39.264214,77.54748,36.92237,83.01597L36.92237,83.01597Q36.92215,83.01606,36.921925,83.01615L36.922295,83.01615Q34.404625,88.895325,34.288677,95.83443Q34.475834,109.17785,43.81314,118.75722Q53.338726,128.00557,66.69769,128.20314Q80.000114,128.04855,89.66803,118.63568Q98.84309,109.19356,99.07109,95.79984Q98.98324,89.39333,96.785995,83.85394L96.786964,83.85394Q96.7864,83.85373,96.785835,83.85352L96.78583,83.85352Q95.1245,79.66537,92.25733,75.9729L92.258255,75.9729Q75.70621,69.97237,58.336018,69.97237 Z"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M501.3297,604.87555L452.81696,634.3636L498.32935,607.3381Q464.4312,629.21704,443.6568,641.51447Q418.07376,656.7014,396.2893,667.1827Q354.91687,687.34534,309.53516,697.2512Q262.61285,707.2331,229.33386,702.78326Q200.24336,699.40735,165.63356,677.45825Q211.17622,706.28687,239.8837,712.2371Q270.03146,719.7445,309.31073,711.0956Q356.32538,700.609,406.45367,673.18396Q446.60797,651.58875,501.2243,604.96735"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M66.82556,-14.184425Q41.08715,-14.202327,26.016365,-10.8498335Q10.782108,-7.580368,-1.9818192,0.9163399Q-10.148064,6.15934,-22.929852,18.337353L-51.898262,64.172386Q-8.094868,34.22528,23.02198,27.272205Q40.445694,22.934998,65.6439,21.321415Q79.899536,20.393364,100.444595,20.18811L119.49432,20.073586L125.15733,20.68243L109.47441,-12.884755Q81.042755,-14.226328,67.051994,-14.184365"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M390.1985,-57.112103Q372.45886,-57.11463,349.03506,-52.215607Q328.79147,-48.155197,288.06885,-35.939026L276.10657,13.749569L278.1555,14.368397Q303.07187,2.0311432,340.1182,-8.71307Q372.2206,-17.944115,397.3265,-19.875359Q417.9839,-21.550312,438.88776,-17.313877Q457.62027,-13.777885,489.76254,-1.4811974Q458.8129,-33.78463,438.4417,-44.71924Q416.0103,-57.405205,390.6026,-57.111477"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M643.34344,90.74487L637.48175,105.870186Q634.3257,136.3747,628.6613,162.53952Q628.758,164.61588,617.09216,197.46542Q603.49176,232.26213,600.3278,237.32306Q592.58484,254.34538,575.6483,278.6422Q573.9841,281.43304,573.69696,284.5843Q572.9293,289.55402,576.2631,297.72156Q576.41626,298.94543,581.1118,291.51382Q608.8974,244.65495,631.7608,190.60799Q635.3477,181.10175,637.9404,161.0064Q638.6162,155.24545,639.01666,147.62297Q639.9346,117.87502,640.3572,115.515205Q640.6256,110.08676,643.3341,90.82102"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M610.708,325.8934Q607.20984,341.07562,605.7855,345.85712Q603.0795,355.65363,598.598,369.70425Q596.8222,375.2735,590.31006,391.3346Q583.4651,406.427,579.4011,411.1801Q577.83057,413.1873,576.0933,414.62885Q574.8826,415.74948,568.52734,419.57648Q567.2411,420.5418,566.4003,421.81863Q564.31067,424.89294,564.58185,429.9759Q564.8,433.03397,565.3915,434.93976Q565.6251,435.57,566.4916,435.23767Q572.76373,431.98355,579.61444,424.7787Q591.87036,411.3813,599.9421,392.1596Q602.72754,386.0446,604.9876,378.54608Q609.2489,364.04428,609.77747,359.6996Q610.1612,357.44986,610.4814,353.97528L610.71344,325.9771"/>
+</g>
+<g style="fill:url(#grad10); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M67.18381,78.01523Q58.784187,78.15469,52.835323,83.92085Q46.937347,89.97154,46.812225,98.33435Q46.93686,106.74202,52.720238,112.71347Q58.736164,118.58794,67.09836,118.73407Q75.49902,118.620056,81.4671,112.86908Q87.38358,106.83272,87.53096,98.46983Q87.39668,89.942955,81.60477,84.01751Q75.580376,78.14992,67.217514,78.01526"/>
+</g>
+<g style="fill:url(#grad11); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M389.6186,38.075016Q381.35812,38.216,375.47928,43.942577Q369.7385,49.874477,369.63177,58.112617Q369.733,66.22857,375.47867,72.20845Q381.352,77.93205,389.6157,78.07663Q397.87738,77.94852,403.7656,72.2294Q409.51584,66.30432,409.63342,58.06608Q409.543,49.950245,403.80676,43.963493Q397.9434,38.232655,389.68036,38.07511"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M66.87837,83.87184Q61.988457,83.94402,58.47485,87.344284Q55.064056,90.8416,54.974915,95.74618Q55.0427,100.65346,58.435795,104.16225Q62.00199,107.61633,66.870834,107.673775Q71.76083,107.60263,75.27521,104.203Q78.686745,100.70627,78.776794,95.80168Q78.70989,90.89436,75.317566,87.385025Q71.752174,83.93033,66.88339,83.87184"/>
+</g>
+<g style="fill:rgb(94,65,57); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M389.40494,45.141605Q384.56244,45.195377,381.03085,48.619553Q377.63492,52.119694,377.57407,56.99974Q377.6456,61.87784,381.05927,65.37293Q384.5316,68.74266,389.3917,68.822426Q394.23523,68.78207,397.7767,65.365906Q401.18265,61.873062,401.2549,56.992905Q401.195,52.114906,397.79114,48.612545Q394.3555,45.2351,389.41727,45.141613"/>
+</g>
+<g style="fill:rgb(235,225,203); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M385.93997,49.20583Q384.62134,49.596123,383.87592,49.77654L381.02808,50.42856Q380.56714,50.546417,379.98117,50.752472Q378.55804,51.26208,377.53864,52.207745Q377.06906,52.729935,376.5271,53.784275L380.09616,55.3652Q383.1286,54.3661,384.40912,53.03528Q385.25388,52.119545,385.7042,50.985916Q386.004,50.207233,386.052,49.83481Q386.14526,49.179817,385.94476,49.205906"/>
+</g>
+<g style="fill:rgb(235,225,203); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M62.882004,90.78112Q62.204056,90.92096,61.791428,90.96961L59.206657,91.20751Q58.70114,91.26106,57.892067,91.42168Q56.293274,91.7343,55.61534,92.23312Q54.793133,92.777176,54.42656,93.61234Q54.066856,94.35565,53.16299,97.42698L58.028755,96.88166Q58.646263,96.527245,59.052433,96.248055Q60.401306,95.32611,61.225555,94.13477Q61.75762,93.46345,62.717243,91.513084L62.98657,90.932594Q63.024456,90.7988,62.90261,90.782"/>
+</g>
+<g style="fill:url(#grad12); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M290.12744,-502.05386Q241.68796,-501.9873,182.24324,-482.29333Q130.60522,-466.01852,28.688316,-416.4278L93.08337,-365.9712L19.111198,-385.0011L73.24891,-333.6897L-8.126111,-372.3283Q11.453792,-329.42792,63.840782,-309.7088Q127.367905,-285.1691,212.15887,-284.86768Q282.52405,-283.64026,451.28635,-310.32635L433.24872,-309.06Q461.8895,-313.76086,491.42584,-326.39453Q519.6771,-338.02936,573.653,-368.0543Q522.62933,-362.05627,500.58704,-364.95282Q476.27258,-367.5113,447.57315,-381.653L436.67285,-386.98746L553.8553,-370.70398L521.94116,-395.78378Q446.45364,-454.38623,395.61197,-477.14023Q341.07153,-502.23926,290.85165,-502.05276"/>
+</g>
+<g style="fill:url(#grad13); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M561.0744,-311.36392Q533.50366,-311.44998,488.0777,-303.1148Q476.70712,-301.07495,460.46625,-297.93982L392.2852,-281.0541Q428.94342,-245.98395,467.4109,-230.53307Q500.0218,-216.89714,552.3962,-216.9383Q581.4941,-216.72183,637.93823,-221.89998L546.9878,-238.1824L616.6066,-233.30786L676.8407,-242.14514Q644.61273,-283.68695,621.5668,-296.58063Q597.05096,-311.73758,561.5101,-311.36346"/>
+</g>
+<g style="fill:rgb(131,84,68); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M358.44183,-511.23376L353.82233,-498.55798Q361.06366,-496.615,402.9324,-489.53625Q412.72168,-487.45636,425.0879,-482.55536Q457.26016,-469.50156,500.1853,-448.28455Q513.0394,-442.25113,529.38696,-431.05573Q611.06445,-373.5911,637.7533,-320.32556Q611.551,-373.372,589.2319,-404.73218Q570.6705,-429.4268,530.0501,-455.13934Q506.71814,-472.10938,460.45108,-488.11676Q421.71442,-499.93665,420.80597,-499.53052L358.8614,-511.14417"/>
+</g>
+<g style="fill:url(#grad14); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M-35.053238,-366.7235L-99.117004,-320.11417L-102.6246,-317.0192Q-119.157196,-302.27203,-128.6628,-282.10458Q-139.64233,-260.72522,-142.79463,-228.83601Q-143.69,-220.38902,-143.7291,-210.87018Q-143.30333,-184.26006,-143.64467,-151.57097Q-143.5639,-144.03049,-143.03084,-141.98868Q-142.70193,-141.22868,-141.9666,-142.0832Q-136.00305,-150.93265,-129.66327,-157.47963Q-123.67337,-163.57707,-118.34979,-167.57422Q-116.54578,-170.23094,-80.88284,-190.35023Q-70.26123,-197.46129,-62.992767,-204.30586Q-38.730835,-227.95903,-31.1688,-244.66173Q-27.842316,-251.34778,-29.397957,-250.79025Q-44.98861,-240.74612,-61.52643,-233.77412Q-41.482506,-248.51126,-33.24662,-261.31982Q-24.468079,-273.81387,-19.902214,-294.93518Q-16.789833,-312.8154,-22.129196,-319.73248Q-32.74543,-302.02496,-45.247627,-287.03192Q-30.833054,-307.52554,-28.278648,-328.316Q-26.566383,-342.41626,-27.561478,-349.19995Q-29.077103,-357.43393,-34.892876,-366.48004"/>
+</g>
+<g style="fill:url(#grad15); fill-opacity:1.0; stroke-linejoin: miter">
+<path d="M606.83777,-183.37732Q611.9131,-153.70215,622.7343,-131.31886Q642.65436,-95.08464,658.11865,-80.516174Q647.3045,-82.957794,636.1472,-95.9928Q639.6692,-89.49152,641.45715,-84.88561L648.9234,-64.28412Q649.7416,-61.660637,660.46136,-36.999893Q664.5283,-26.959564,667.0984,-19.475433Q669.46234,-12.463409,671.34296,-2.8432465Q673.0252,5.1098022,673.88965,18.569427Q673.89105,18.908829,674.3573,19.074402Q682.149,13.801819,688.842,-6.1921844Q697.9541,-35.504074,699.8782,-55.531395Q702.6885,-79.63393,700.72815,-111.72148Q699.75604,-132.97049,694.332,-150.80556Q688.11786,-170.81801,674.7634,-180.57332L606.898,-183.37509"/>
+</g>
+</g>
+<defs>
+<linearGradient id="grad9" x1="677.1265" y1="143.89694" x2="526.8644" y2="144.44568" >
+<stop offset="0.0%" style="stop-color:rgb(243,208,166); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(243,208,166); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad11" x1="387.26898" y1="76.83439" x2="389.59558" y2="56.331535" >
+<stop offset="0.0%" style="stop-color:rgb(85,182,178); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(85,182,178); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad5" x1="198.0751" y1="20.66043" x2="205.88892" y2="224.15527" >
+<stop offset="0.0%" style="stop-color:rgb(207,132,103); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(207,132,103); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad0" x1="996.4515" y1="1446.4862" x2="1087.4755" y2="885.20154" >
+<stop offset="0.0%" style="stop-color:rgb(94,65,57); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(94,65,57); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad6" x1="661.9064" y1="591.62103" x2="-193.39941" y2="493.46814" >
+<stop offset="0.0%" style="stop-color:rgb(207,132,103); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(207,132,103); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad2" x1="586.9689" y1="115.144104" x2="482.5647" y2="-267.40356" >
+<stop offset="0.0%" style="stop-color:rgb(207,132,103); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(207,132,103); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad7" x1="50.58171" y1="622.145" x2="221.80415" y2="800.15" >
+<stop offset="0.0%" style="stop-color:rgb(207,132,103); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(207,132,103); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad10" x1="67.44207" y1="118.67842" x2="66.653534" y2="93.32672" >
+<stop offset="0.0%" style="stop-color:rgb(85,182,178); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(85,182,178); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad14" x1="-140.59001" y1="-87.71472" x2="-20.758453" y2="-333.29388" >
+<stop offset="0.0%" style="stop-color:rgb(131,84,68); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(131,84,68); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad4" x1="371.97223" y1="-139.93768" x2="366.85132" y2="261.81787" >
+<stop offset="0.0%" style="stop-color:rgb(207,132,103); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(207,132,103); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad1" x1="-73.78674" y1="284.61694" x2="45.277405" y2="-439.00275" >
+<stop offset="0.0%" style="stop-color:rgb(207,132,103); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(207,132,103); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad8" x1="201.47458" y1="107.55249" x2="182.95529" y2="-255.07129" >
+<stop offset="0.0%" style="stop-color:rgb(243,208,166); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(243,208,166); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad13" x1="649.1895" y1="-228.87466" x2="476.13754" y2="-294.37805" >
+<stop offset="0.0%" style="stop-color:rgb(131,84,68); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(131,84,68); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad15" x1="736.89374" y1="-14.3454895" x2="596.52576" y2="-198.22952" >
+<stop offset="0.0%" style="stop-color:rgb(131,84,68); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(131,84,68); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad3" x1="34.810467" y1="-71.3866" x2="91.22926" y2="287.21896" >
+<stop offset="0.0%" style="stop-color:rgb(207,132,103); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(207,132,103); stop-opacity:0.0" />
+</linearGradient>
+<linearGradient id="grad12" x1="602.8946" y1="-345.55902" x2="-110.07387" y2="-389.37354" >
+<stop offset="0.0%" style="stop-color:rgb(131,84,68); stop-opacity:1.0" />
+<stop offset="100.0%" style="stop-color:rgb(131,84,68); stop-opacity:0.0" />
+</linearGradient>
+</defs>
+</svg>
